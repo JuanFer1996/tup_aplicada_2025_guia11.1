@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriaModels", "GeometriaModels\GeometriaModels.csproj", "{A7AC0D02-E725-412C-9904-38651F3E76F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriaMSQLDALslmpl", "GeometriaMSQLSAL.slmpl\GeometriaMSQLDALslmpl.csproj", "{8ADF8089-EEA5-4762-88D1-B566BB5842FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AC0D02-E725-412C-9904-38651F3E76F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AC0D02-E725-412C-9904-38651F3E76F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AC0D02-E725-412C-9904-38651F3E76F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AC0D02-E725-412C-9904-38651F3E76F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADF8089-EEA5-4762-88D1-B566BB5842FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADF8089-EEA5-4762-88D1-B566BB5842FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADF8089-EEA5-4762-88D1-B566BB5842FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADF8089-EEA5-4762-88D1-B566BB5842FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
